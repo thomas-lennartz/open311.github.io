@@ -20,6 +20,8 @@ Mobile apps and web front-ends that connect to the API. You can also see a searc
 -   [Mark-a-Spot](/Mark-a-Spot "wikilink")
 -   [SeeClickFix](http://seeclickfix.com/open311)
 -   [Love Clean Streets](http://lovecleanstreets.com)
+-   [MÜLLweg! DE](https://muell-weg.de)
+
 
 #### Potential Support
 
